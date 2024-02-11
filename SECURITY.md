@@ -6,7 +6,7 @@ At ImageProfiler, we take security seriously. If you discover any security vulne
 
 To report a security vulnerability, please follow these steps:
 
-1. **Email:** Send an email to [security@example.com](mailto:security@example.com) with a detailed description of the vulnerability.
+1. **Email:** Send an email to [sarthakbhatore637@gmail.com](mailto:security@example.com) with a detailed description of the vulnerability.
 2. **Subject:** Use a clear and descriptive subject line (e.g., "Security Vulnerability - ImageProfiler").
 3. **Provide Details:** Include thorough information about the vulnerability, steps to reproduce it, and any potential impact.
 
