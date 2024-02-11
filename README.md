@@ -23,3 +23,30 @@ ImageProfiler is licensed under the MIT License.
 ImageProfiler was created by the team itertools at HackthisFall 2024. We're passionate about open source and are excited to contribute to the community with tools that help make data analysis more accessible and insightful.
 
 For any questions or feedback, please open an issue on our GitHub repository.
+
+
+
+# Functions provided
+
+**read_img()**
+
+Reads an image from the specified file path and optionally converts it to grayscale.
+
+Parameters:
+    filepath (str): The path to the image file.
+    gray (bool, optional): If set to True, converts the image to grayscale. Default is False.
+
+Returns:
+    np.ndarray: The image as a NumPy array. If gray is True, returns a grayscale image, otherwise returns the image in its original color.
+
+
+**gray_img()**
+
+Converts an RGB image to a grayscale image.
+
+Parameters:
+    img (np.ndarray): An RGB image as a NumPy array.
+
+Returns:
+    np.ndarray: The grayscale version of the input image.
+
